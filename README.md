@@ -8,20 +8,20 @@
 
 ## Introduction
 
-The Vélib Métropole Data Visualization Project focuses on analyzing the availability of bikes and terminals within the Vélib Métropole shared bicycle service. This service operates across 55 municipalities in the Métropole du Grand Paris area, providing sustainable transportation options for urban commuters.
+The Vélib' Métropole Data Visualization Project focuses on analyzing the availability of bikes and terminals within the Vélib' Métropole shared bicycle service. This service operates across 55 municipalities in the Métropole du Grand Paris area, providing sustainable transportation options for urban commuters.
 
 ## Data Source
 
-The dataset used in this project is sourced from the Paris Open Data portal and is provided by Smovengo / Syndicat Autolib' Vélib' Métropole (© 2018 Smovengo / Syndicat Autolib' Vélib' Métropole). It consists of real-time data on bike and terminal availability, accessed through the Vélib Métropole API.
+The dataset used in this project is sourced from the Paris Open Data portal and is provided by Smovengo / Syndicat Autolib' Vélib' Métropole (© 2018 Smovengo / Syndicat Autolib' Vélib' Métropole). It consists of real-time data on bike and terminal availability, accessed through the Vélib' Métropole API.
 
 ### API Call
 
-The data is collected and maintained by Autolib Velib Métropole, the organization responsible for managing the Vélib Métropole bike-sharing service. It is continuously updated to reflect changes in bike availability and usage patterns.
+The data is collected and maintained by Autolib Velib' Métropole, the organization responsible for managing the Vélib' Métropole bike-sharing service. It is continuously updated to reflect changes in bike availability and usage patterns.
 
 ### Data Collection
 
-The dataset was initially created on December 5, 2019, and is continuously updated in real-time. The data collection serves the purpose of monitoring and managing the Vélib Métropole service, assisting users in planning bike trips, and aiding service providers in decision-making regarding station placement and service improvements.
+The dataset was initially created on December 5, 2019, and is continuously updated in real-time. The data collection serves the purpose of monitoring and managing the Vélib' Métropole service, assisting users in planning bike trips, and aiding service providers in decision-making regarding station placement and service improvements.
 
 ## Purpose
 
-The primary goal of this project is to visualize and analyze the availability of bikes and terminals within the Vélib Métropole service. By exploring trends and patterns in bike usage, we aim to better understand urban mobility patterns, promote sustainable transportation options, and inform decisions related to urban infrastructure planning and improvement.
+The primary goal of this project is to visualize and analyze the availability of bikes and terminals within the Vélib' Métropole service. By exploring trends and patterns in bike usage, we aim to better understand urban mobility patterns, promote sustainable transportation options, and inform decisions related to urban infrastructure planning and improvement.
